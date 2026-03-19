@@ -247,7 +247,3 @@ Cost             | Typically involves OEM partnership   | Free to use
 Attribution is a fundamental part of mobile app marketing. For **pre-installed apps**, it requires working with OEM partners and third-party SDKs. For **Play Store downloads**, Google's Install Referrer API provides a simple and secure way to capture campaign data.
 
 The [InstallReferrerDemo](https://github.com/RandhirGupta/InstallReferrerDemo) sample project demonstrates a clean, production-ready implementation using Kotlin, Jetpack Compose, and the MVVM pattern. Clone it, try it out, and adapt it for your own app's attribution needs.
-
----
-
-*If you found this article helpful, give it a clap and follow for more Android development content!*
